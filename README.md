@@ -10,5 +10,5 @@
 - Now in Properties -> Linker -> Input -> Additional Dependencies -> edit -> write freeglut.lib press enter and write glew32.lib and press OK
 - Finally in Properties -> Linker -> General -> Additional Library Directories -> edit -> new line -> add path of glew-1.11.0\lib which is in glew and glut folder and press OK
 - Repeat for path  freeglut\lib
-- Copy glew32.dll and freeglut.dll from glew and gkut folder and copy them into project folder
+- Copy glew32.dll and freeglut.dll from glew and glut folder and copy them into project folder
 - Now you should be able to build and run project without any errors
