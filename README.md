@@ -1,4 +1,4 @@
-# Atari-Combat
+# Atari-Combat with Class diagram
 - Download zip and extract files
 - Extract Glew and Glut folder separately
 - Create new empty C++ project in Visual Studio Windows
